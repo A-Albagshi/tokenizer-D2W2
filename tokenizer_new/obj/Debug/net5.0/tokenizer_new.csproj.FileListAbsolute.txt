@@ -1,0 +1,16 @@
+C:\Users\a-22_\source\repos\tokenizer_new\tokenizer_new\obj\Debug\net5.0\tokenizer_new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a-22_\source\repos\tokenizer_new\tokenizer_new\obj\Debug\net5.0\tokenizer_new.AssemblyInfoInputs.cache
+C:\Users\a-22_\source\repos\tokenizer_new\tokenizer_new\obj\Debug\net5.0\tokenizer_new.AssemblyInfo.cs
+C:\Users\a-22_\source\repos\tokenizer_new\tokenizer_new\obj\Debug\net5.0\tokenizer_new.csproj.CoreCompileInputs.cache
+C:\Users\a-22_\source\repos\tokenizer_new\tokenizer_new\bin\Debug\net5.0\tokenizer_new.exe
+C:\Users\a-22_\source\repos\tokenizer_new\tokenizer_new\bin\Debug\net5.0\tokenizer_new.deps.json
+C:\Users\a-22_\source\repos\tokenizer_new\tokenizer_new\bin\Debug\net5.0\tokenizer_new.runtimeconfig.json
+C:\Users\a-22_\source\repos\tokenizer_new\tokenizer_new\bin\Debug\net5.0\tokenizer_new.runtimeconfig.dev.json
+C:\Users\a-22_\source\repos\tokenizer_new\tokenizer_new\bin\Debug\net5.0\tokenizer_new.dll
+C:\Users\a-22_\source\repos\tokenizer_new\tokenizer_new\bin\Debug\net5.0\ref\tokenizer_new.dll
+C:\Users\a-22_\source\repos\tokenizer_new\tokenizer_new\bin\Debug\net5.0\tokenizer_new.pdb
+C:\Users\a-22_\source\repos\tokenizer_new\tokenizer_new\obj\Debug\net5.0\tokenizer_new.dll
+C:\Users\a-22_\source\repos\tokenizer_new\tokenizer_new\obj\Debug\net5.0\ref\tokenizer_new.dll
+C:\Users\a-22_\source\repos\tokenizer_new\tokenizer_new\obj\Debug\net5.0\tokenizer_new.pdb
+C:\Users\a-22_\source\repos\tokenizer_new\tokenizer_new\obj\Debug\net5.0\tokenizer_new.genruntimeconfig.cache
+C:\Users\a-22_\source\repos\tokenizer_new\tokenizer_new\obj\Debug\net5.0\tokenizer_new.csprojAssemblyReference.cache
